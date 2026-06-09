@@ -1,2 +1,4 @@
-# imersao-dados-alura-2025
-Projeto desenvolvido na Imersão Dados com Python 2025 da Alura
+# Dashboard de Análise de Salários na Área de Dados
+Este projeto teve como objetivo exercitar a construção de uma aplicação para visualização de dados através do Streamlit. Gráficos interativos foram feitos com a ferramenta Plotly.
+
+Acesse o projeto [aqui.](https://simires-dados-salariais.streamlit.app/)
